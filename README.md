@@ -1,0 +1,1 @@
+# pytest-bare-type-ignore
